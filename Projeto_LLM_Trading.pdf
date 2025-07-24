@@ -1,0 +1,12 @@
+7
+️
+⃣ Documentação Final:
+- PDF com estrutura, código, pipeline, e ferramentas utilizadas.
+Ferramentas Sugeridas:
+- Python
+- Hugging Face Transformers
+- PEFT / LoRA
+- CCXT / TradingView API / Selenium
+- Stable Baselines3 / RLlib
+- Pandas / Numpy / Matplotlib
+- Banco de dados (PostgreSQL ou MongoDB)
