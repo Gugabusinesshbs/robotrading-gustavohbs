@@ -8,7 +8,7 @@ import { TrendingUp, TrendingDown, Activity, DollarSign, BarChart3, Settings, Pl
 import './App.css'
 
 // URL base da API - ajustar conforme necessário
-const API_BASE = 'https://ogh5izcezoqz.manus.space/api/trading'
+const API_BASE = 'http://localhost:5000/api/trading'
 
 function App() {
   const [isTrading, setIsTrading] = useState(false)
